@@ -1,0 +1,1 @@
+Delete file disposable content for zoom-app-tester.
